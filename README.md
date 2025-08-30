@@ -1,34 +1,25 @@
-<h1 align="center">📚 JavaProject-Library-Management</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Project-orange?logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Library-Management-blue" alt="Library Badge"/>
-  <img src="https://img.shields.io/github/license/your-username/JavaProject-Library-Management" alt="License Badge"/>
-  <img src="https://img.shields.io/github/stars/your-username/JavaProject-Library-Management?style=social" alt="Stars Badge"/>
-</p>
+<h1 align="center"> JavaProject-Library-Management</h1>
 
 <p align="center">
   A robust <b>Library Management System</b> built with <b>Java</b>.  
-  Manage books, students, and transactions seamlessly while automating your library operations! 📖
+  Manage books, students, and transactions seamlessly while automating your library operations!
 </p>
 
 <hr/>
 
 <h2>✨ Features</h2>
 <ul>
-  <li>📚 Add, update, and delete books</li>
-  <li>👨‍🎓 Manage student/member records</li>
-  <li>📅 Issue & return books with due dates</li>
-  <li>🔍 Search books by title, author, or ISBN</li>
-  <li>📊 Track issued/available books</li>
-  <li>🔐 Secure login for admin/librarian</li>
+  <li> Add, update, and delete books</li>
+  <li> Manage student/member records</li>
+  <li> Issue & return books with due dates</li>
+  <li> Search books by title, author, or ISBN</li>
+  <li> Track issued/available books</li>
+  <li> Secure login for admin/librarian</li>
 </ul>
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
   <li><b>Language:</b> Java</li>
-  <li><b>Database:</b> MySQL / SQLite</li>
-  <li><b>UI:</b> Java Swing / JavaFX</li>
 </ul>
 
 <h2>📂 Project Structure</h2>
@@ -36,21 +27,23 @@
 <pre>
 JavaProject-Library-Management/
 │── src/
-│   ├── database/
-│   │    └── DBConnection.java
+│   ├── main/
+│   │    └── LibraryApp.java
+         └── MainMenu.java
 │   ├── models/
 │   │    ├── Book.java
-│   │    ├── Student.java
+│   │    ├── User.java
 │   │    └── Transaction.java
-│   ├── ui/
-│   │    ├── Login.java
-│   │    ├── Dashboard.java
-│   │    └── ManageBooks.java
+│   ├── services/
+│   │    ├── AuthService.java
+│   │    ├── BookService.java
+│   │    └── TransactionService.java
+         └── UserService.java
 │   └── utils/
-│        └── Helper.java
-│
-│── README.md
-│── LICENSE
+│        └── Constants.java
+         └── FileUtils.java
+         └── InputValidator.java
+
 </pre>
 
 <h2>⚡ Getting Started</h2>
@@ -58,8 +51,7 @@ JavaProject-Library-Management/
 <h3>🔹 Prerequisites</h3>
 <ul>
   <li>Java JDK 8 or higher</li>
-  <li>MySQL or SQLite installed (if database is used)</li>
-  <li>Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans, etc.)</li>
+  <li>Java IDE (IntelliJ IDEA)</li>
 </ul>
 
 <h3>🔹 Installation</h3>
