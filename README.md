@@ -58,6 +58,10 @@ JavaProject-Library-Management/
 </ol>
 
 <h2>📸 Screenshots</h2>
+<h2>📸 Screenshots</h2>
 <p align="center">
-  <img src="https://via.placeholder.com/600x350.png?text=Library+Management+System+Screenshot" alt="Library Management Screenshot" />
+  <img src="https://via.placeholder.com/600x350.png?text=Library+Management+System+Screenshot+1" alt="Library Management Screenshot 1" /><br/><br/>
+  <img src="https://via.placeholder.com/600x350.png?text=Library+Management+System+Screenshot+2" alt="Library Management Screenshot 2" /><br/><br/>
+  <img src="https://via.placeholder.com/600x350.png?text=Library+Management+System+Screenshot+3" alt="Library Management Screenshot 3" />
 </p>
+
