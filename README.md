@@ -58,10 +58,15 @@ JavaProject-Library-Management/
 </ol>
 
 <h2>📸 Screenshots</h2>
-<h2>📸 Screenshots</h2>
 <p align="center">
   <img src="Image1.png" /><br/><br/>
   <img src="Image2.png" /><br/><br/>
   <img src="Image3.png" />
 </p>
 
+<h2>✅ Conclusion</h2>
+<p>
+  The <b>JavaProject-Library-Management</b> is a complete solution to automate library operations such as 
+  managing books, students, and transactions. It simplifies the process of issuing, returning, and tracking 
+  books, ensuring efficient administration for librarians and institutions. 
+</p>
