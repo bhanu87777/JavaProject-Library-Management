@@ -59,9 +59,9 @@ JavaProject-Library-Management/
 
 <h2>📸 Screenshots</h2>
 <p align="center">
-  <img src="Image1.png" /><br/><br/>
-  <img src="Image2.png" /><br/><br/>
-  <img src="Image3.png" />
+  <img src="Image/Image1.png" /><br/><br/>
+  <img src="Image/Image2.png" /><br/><br/>
+  <img src="Image/Image3.png" />
 </p>
 
 <h2>✅ Conclusion</h2>
